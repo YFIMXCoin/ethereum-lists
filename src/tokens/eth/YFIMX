@@ -1,0 +1,26 @@
+  "symbol": "YFIMX",
+  "name": "MAX Coin",
+  "type": "ERC20",
+  "address": "0x5A2fc0E03cF45EB1522eaeD8E4ACD292eE760d5E",
+  "ens_address": "",
+  "decimals": 0,
+  "website": "https://yfimx-maxcoin.com",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
